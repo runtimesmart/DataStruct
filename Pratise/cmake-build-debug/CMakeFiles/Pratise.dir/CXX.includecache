@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Yl/CLionProjects/Pratise/seqlist.cpp
+iostream
+-
+seqlist.h
+/Users/Yl/CLionProjects/Pratise/seqlist.h
+
+/Users/Yl/CLionProjects/Pratise/seqlist.h
+
